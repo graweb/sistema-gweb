@@ -1,0 +1,19 @@
+[09-Mar-2018 14:53:48 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/grawebco/public_html/gweb/application/models/Enviar_email_model.php on line 47
+[09-Mar-2018 14:56:18 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/grawebco/public_html/gweb/application/models/Enviar_email_model.php on line 44
+[09-Mar-2018 14:58:22 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/grawebco/public_html/gweb/application/models/Enviar_email_model.php on line 44
+[09-Mar-2018 15:05:29 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/grawebco/public_html/gweb/application/models/Enviar_email_model.php on line 32
+[09-Mar-2018 15:15:08 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'width' (T_STRING) in /home/grawebco/public_html/gweb/application/models/Enviar_email_model.php on line 32
+[09-Mar-2018 15:18:05 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/grawebco/public_html/gweb/application/models/Enviar_email_model.php on line 32
+[09-Mar-2018 15:19:06 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/grawebco/public_html/gweb/application/models/Enviar_email_model.php on line 32
+[09-Mar-2018 16:44:22 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/grawebco/public_html/gweb/application/controllers/Incidentes.php on line 49
+[09-Mar-2018 16:44:22 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/grawebco/public_html/gweb/application/controllers/Requisicoes.php on line 49
+[09-Mar-2018 16:44:22 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/grawebco/public_html/gweb/application/controllers/Incidentes.php on line 49
+[09-Mar-2018 16:44:22 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/grawebco/public_html/gweb/application/controllers/Requisicoes.php on line 49
+[09-Mar-2018 16:44:26 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/grawebco/public_html/gweb/application/controllers/Incidentes.php on line 49
+[12-Mar-2018 14:40:51 America/Sao_Paulo] PHP Fatal error:  Allowed memory size of 157286400 bytes exhausted (tried to allocate 72 bytes) in /home/grawebco/public_html/gweb/system/database/drivers/mysqli/mysqli_result.php on line 183
+[12-Mar-2018 14:42:45 America/Sao_Paulo] PHP Fatal error:  Allowed memory size of 157286400 bytes exhausted (tried to allocate 608 bytes) in /home/grawebco/public_html/gweb/system/database/drivers/mysqli/mysqli_driver.php on line 305
+[12-Mar-2018 14:43:45 America/Sao_Paulo] PHP Fatal error:  Allowed memory size of 157286400 bytes exhausted (tried to allocate 262144 bytes) in /home/grawebco/public_html/gweb/system/database/DB_result.php on line 263
+[12-Mar-2018 19:04:09 America/Sao_Paulo] PHP Fatal error:  Allowed memory size of 157286400 bytes exhausted (tried to allocate 262144 bytes) in /home/grawebco/public_html/gweb/system/database/DB_result.php on line 263
+[12-Mar-2018 19:06:49 America/Sao_Paulo] PHP Fatal error:  Allowed memory size of 157286400 bytes exhausted (tried to allocate 262144 bytes) in /home/grawebco/public_html/gweb/system/database/DB_result.php on line 263
+[15-Mar-2018 15:33:06 America/Sao_Paulo] PHP Fatal error:  Call to undefined method Incidentes_model::contar() in /home/grawebco/public_html/gweb/application/controllers/Relatorios.php on line 18
+[04-Jul-2019 00:01:14 America/Sao_Paulo] PHP Fatal error:  Call to undefined method stdClass::result() in /home/gwebcorp/public_html/clinhares_hmg/application/models/Incidentes_model.php on line 244
